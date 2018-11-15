@@ -1,0 +1,100 @@
+5UmKMjUEUNdYWqANhGckJw,4734 Lebanon Church Rd Dravosburg  PA 15034,true,Fast Food|Restaurants,Dravosburg,4.0,Mr Hoagie,,-79,PA,4.0,40,business
+UsFtqoBl7naz8AVUBZMjQQ,202 McClure St Dravosburg  PA 15034,true,Nightlife,Dravosburg,4.0,Clancy's Pub,,-79,PA,3.0,40,business
+3eu6MEFlq2Dg7bQh8QbdOg,1 Ravine St Dravosburg  PA 15034,true,Auto Repair|Automotive,Dravosburg,3.0,Joe Cislo's Auto,,-79,PA,5.0,40,business
+cE27W9VPgO88Qxe4ol6y_g,1530 Hamilton Rd Bethel Park  PA 15234,false,Active Life|Mini Golf|Golf,Bethel Park,5.0,Cool Springs Golf Center,,-80,PA,2.0,40,business
+HZdLhv6COCleJMo7nPl-RA,301 South Hills Village Pittsburgh  PA 15241,true,Shopping|Home Services|Internet Service Providers|Mobile Phones|Professional Services|Electronics,Pittsburgh,5.0,Verizon,,-80,PA,2.0,40,business
+mVHrayjG3uZ_RLHkLj-AMg,414 Hawkins Ave rankin  PA 15104,true,Bars|American (New)|Nightlife|Lounges|Restaurants,rankin,20.0,Emil's Lounge,,-79,PA,5.0,40,business
+VHYT1qgQw5JvXAlUDhTArA,2101 Greentree Rd Ste B201 Pittsburgh  PA 15220,true,Active Life|Trainers|Fitness & Instruction,Pittsburgh,3.0,Extreme Fitness 2,,-80,PA,2.0,40,business
+KayYbHCt-RkbGcPdGOThNg,141 Hawthorne St Greentree Carnegie  PA 15106,true,Bars|American (Traditional)|Nightlife|Restaurants,Carnegie,21.0,Alexion's Bar & Grill,Greentree,-80,PA,4.0,40,business
+b12U9TFESStdy7CsTtcOeg,718A Hope Hollow Rd Carnegie  PA 15106,true,Auto Repair|Automotive|Tires,Carnegie,7.0,Flynn's Tire And Auto Service,,-80,PA,2.0,40,business
+Sktj1eHQFuVa-M4bgnEh8g,920 Forsythe Rd Carnegie Carnegie  PA 15106,false,Active Life|Mini Golf,Carnegie,4.0,Forsythe Miniature Golf & Snacks,Carnegie,-80,PA,4.0,40,business
+3ZVKmuK2l7uXPE6lXY4Dbg,8 Logan St Carnegie Carnegie  PA 15106,true,Home Services|Contractors,Carnegie,3.0,Quaker State Construction,Carnegie,-80,PA,2.0,40,business
+QoDa50dc7g62xciFygXB9w,2080 Greentree Rd Pittsburgh  PA 15220,true,Veterinarians|Pets,Pittsburgh,5.0,Greentree Animal Clinic,,-80,PA,4.0,40,business
+1_lU0-eSWJCRvNGk78Zh9Q,300 Beechwood Ave Carnegie Carnegie  PA 15106,true,Libraries|Public Services & Government,Carnegie,3.0,Carnegie Free Library,Carnegie,-80,PA,4.0,40,business
+_qopVQ6_Mz6W7-Pmbi56GQ,1011 Washington Ave Carnegie  PA 15106,true,Automotive|Auto Parts & Supplies,Carnegie,3.0,Advance Auto Parts,,-80,PA,3.0,40,business
+wJr6kSA5dchdgOdwH6dZ2w,2100 Washington Pike Carnegie  PA 15106,true,Burgers|Breakfast & Brunch|American (Traditional)|Restaurants,Carnegie,8.0,Kings Family Restaurant,,-80,PA,3.0,40,business
+yXuao0pFz1AxB21vJjDf5w,2100 Washington Pike Carnegie  PA 15106,true,Food|Grocery,Carnegie,4.0,Shop N' Save,,-80,PA,4.0,40,business
+F04xyOUA2xnUoCiWpx9iJA,Bower Hill Rd & Vanadium Rd Carnegie  PA 15106,true,Local Services|Dry Cleaning & Laundry|Sewing & Alterations,Carnegie,3.0,Rossi Tailoring & Cleaners,,-80,PA,3.0,40,business
+Cdcus0NADzyY3XiJM2O5Sg,1927 E Railroad St Carnegie  PA 15106,false,Automotive|Gas & Service Stations,Carnegie,4.0,Heidelberg B P,,-80,PA,3.0,40,business
+fNGIbpazjTRdXgwRY_NIXA,1201 Washington Ave Carnegie  PA 15106,true,Bars|American (Traditional)|Nightlife|Lounges|Restaurants,Carnegie,7.0,Rocky's Lounge,,-80,PA,4.0,40,business
+b9WZJp5L1RZr4F1nxclOoQ,1073 Washington Ave Carnegie  PA 15106,true,Breakfast & Brunch|Sandwiches|Restaurants,Carnegie,58.0,Gab & Eat,,-80,PA,4.0,40,business
+zaXDakTd3RXyOa7sMrUE1g,202 3rd Ave Carnegie Carnegie  PA 15106,true,Cafes|Restaurants,Carnegie,6.0,Barb's Country Junction Cafe,Carnegie,-80,PA,3.0,40,business
+zgy27FSnvwdINfk5cXBIyQ,520 North Bell Avenue Carnegie Carnegie  PA 15106,true,Hotels & Travel|Event Planning & Services|Hotels,Carnegie,7.0,Extended Stay America - Pittsburgh - Carnegie,Carnegie,-80,PA,3.0,40,business
+WETE_LykpcnrC1sFcQ5EGg,215 E Main St Carnegie Carnegie  PA 15106,false,Pubs|Irish|Nightlife|Bars|Restaurants,Carnegie,7.0,Paddy's Pour House,Carnegie,-80,PA,3.0,40,business
+6o3RK6rTcN3nw-j-r2nQmA,231 E Main St Carnegie Carnegie  PA 15106,true,,Carnegie,4.0,Porto Fino Pizzaria & Gyro,Carnegie,-80,PA,2.0,40,business
+woOVJ0Z2f6XNCDntHA3b_g,117 E Mall Plz Carnegie Carnegie  PA 15106,true,Local Services|Sewing & Alterations,Carnegie,10.0,Alteration World,Carnegie,-80,PA,4.0,40,business
+YX_cdwb0A62hdQRBiZJgtQ,301 Noblestown Rd East Carnegie Carnegie  PA 15106,true,Automotive|Body Shops,Carnegie,3.0,Greentree Auto Body,East Carnegie,-80,PA,2.0,40,business
+rv7CY8G_XibTx82YhuqQRw,Raceway Plz Carnegie  PA 15106,true,Restaurants,Carnegie,5.0,Long John Silver's,,-80,PA,3.0,40,business
+e_U_FnpdKVgNb4mUN2cU_Q,2323 Greentree Rd Carnegie  PA 15106,true,Health & Medical|Dentists|General Dentistry,Carnegie,8.0,Weinberg Lisa, DMD,-80,PA,3.0,40,business
+SQ0j7bgSTazkVQlF5AnqyQ,214 E Main St Carnegie Carnegie  PA 15106,true,Chinese|Restaurants,Carnegie,9.0,Don Don Chinese Restaurant,Carnegie,-80,PA,2.0,40,business
+L0YSY79uzz_FIInvKmvyIw,312 2nd Ave Carnegie Carnegie  PA 15106,true,Health & Medical|Dentists|General Dentistry,Carnegie,4.0,West Penn Dental Centers,Carnegie,-80,PA,4.0,40,business
+wqu7ILomIOPSduRwoWp4AQ,2180 Greentree Rd Pittsburgh  PA 15220,true,American (Traditional)|Restaurants,Pittsburgh,9.0,Denny's,,-80,PA,4.0,40,business
+1u2NauOy8xDj7aFQET680A,100 Roessler Rd Carnegie  PA 15106,true,Active Life|Gyms|Trainers|Fitness & Instruction,Carnegie,6.0,Amerifit,,-80,PA,3.0,40,business
+P1fJb2WQ1mXoiudj8UE44w,200 E Main St Carnegie Carnegie  PA 15106,true,Restaurants|Italian,Carnegie,64.0,Papa J's,Carnegie,-80,PA,3.0,40,business
+8QlnAcjGE6dgfKTVoxrPvQ,300 Davis Blvd Etna Pittsburgh  PA 15275,true,American (Traditional)|Comfort Food|Caterers|Event Planning & Services|Restaurants,Pittsburgh,3.0,Boston Market,Etna,-79,PA,2.0,40,business
+t_gan0EXAw8csKIeFyazJw,820 Amity St Homestead Homestead  PA 15120,true,Italian|Pizza|Restaurants,Homestead,3.0,Homestead Capri Pizza,Homestead,-79,PA,3.0,40,business
+3gmBc0qN_LtGbZAjTtHWZg,270 W Bridge St Homestead Homestead  PA 15120,true,Food|Coffee & Tea,Homestead,20.0,Starbucks,Homestead,-79,PA,3.0,40,business
+sZ4uYs99km644ZMR1TO76A,3619 Main St Homestead  PA 15120,true,Pubs|Bars|Nightlife,Homestead,3.0,Randy's Beer Barrel Pub,,-79,PA,2.0,40,business
+yHTLTr-QN-loO_7XoxS8qg,660 Waterfront Dr E Homestead Munhall  PA 15120,true,Arts & Crafts|Shopping|Knitting Supplies|Hobby Shops,Munhall,8.0,Michaels,Homestead,-79,PA,3.0,40,business
+iQLLIdmJSt6LQHSjpZERLA,138 W Bridge St Homestead Homestead  PA 15120,true,Gift Shops|Flowers & Gifts|Shopping|Home Decor|Home & Garden,Homestead,3.0,Yankee Candle Co.,Homestead,-79,PA,4.0,40,business
+6ilJq_05xRgek_8qUp36-g,650 E  Waterfront Dr Homestead Munhall  PA 15120,true,Burgers|Fast Food|Restaurants,Munhall,48.0,Steak 'n Shake,Homestead,-79,PA,2.0,40,business
+57HN9fGRar_GckBmgHgemA,280 Waterfront Dr E Homestead Homestead  PA 15120,false,Department Stores|Fashion|Shopping,Homestead,6.0,Filene's Basement,Homestead,-79,PA,4.0,40,business
+MKyk4F4HSzHF8v-4cYe3Ww,171 E Bridge St Homestead Homestead  PA 15120,true,Bars|Nightlife,Homestead,30.0,Sing Sing,Homestead,-79,PA,3.0,40,business
+0hrB2iwQZ52VZcZWYywXrA,101 E 7th Ave Homestead Homestead  PA 15120,true,Automotive|Body Shops,Homestead,10.0,Joe Dilorio's Auto Body Shop,Homestead,-79,PA,4.0,40,business
+gClSqcwuLsgyZRCzhJc7Dg,690 Waterfront Dr E Homestead Homestead  PA 15120,true,Shopping|Home Services|Building Supplies|Home & Garden|Hardware Stores|Nurseries & Gardening,Homestead,8.0,Lowe's Home Improvement,Homestead,-79,PA,3.0,40,business
+1qCuOcks5HRv67OHovAVpg,122 W 8th Ave Homestead Homestead  PA 15120,true,Pubs|Bars|American (New)|Nightlife|Restaurants,Homestead,26.0,Duke's Upper Deck Cafe,Homestead,-79,PA,3.0,40,business
+sbW8qHJgzEIH42B0S-3New,180 E Waterfront Dr Homestead Homestead  PA 15120,true,Arts & Entertainment|American (Traditional)|Bars|Pubs|Arcades|Nightlife|Restaurants,Homestead,85.0,Dave & Buster's,Homestead,-79,PA,2.0,40,business
+CgGT6sr4OCF2BHYngOIqlw,3804 Main St Homestead  PA 15120,true,Pet Services|Pet Boarding/Pet Sitting|Pets,Homestead,3.0,Paw's In the Family Pet Grooming,,-79,PA,5.0,40,business
+W7ysp8GLCBrs0GXIVwAcBQ,610 William Marks Way Homestead Homestead  PA 15120,true,Burgers|Fast Food|Restaurants,Homestead,5.0,Wendy's,Homestead,-79,PA,2.0,40,business
+-taSf0shFSUKy9iCXnySsA,2615 Main St Homestead  PA 15120,true,Pizza|Restaurants,Homestead,4.0,Italian Village Pizza,,-79,PA,2.0,40,business
+McikHxxEqZ2X0joaRNKlaw,171 E Bridge St Homestead Homestead  PA 15120,true,Food|American (Traditional)|Breweries|Restaurants,Homestead,124.0,Rock Bottom,Homestead,-79,PA,3.0,40,business
+frIRW4BGhdAWbSsG5ev2ng,1415 West St Homestead Homestead  PA 15120,true,Auto Repair|Automotive,Homestead,3.0,Master Muffler & Brakes,Homestead,-79,PA,3.0,40,business
+tv8cS4aaA1VDaInYgggb6g,166 E Bridge St Homestead Homestead  PA 15120,true,Nightlife|Comedy Clubs,Homestead,40.0,Improv Comedy Club,Homestead,-79,PA,3.0,40,business
+eT5Ck7Gg1dBJobca9VFovw,420 Waterfront Dr E Homestead Homestead  PA 15120,true,Food|Grocery,Homestead,31.0,Giant Eagle,Homestead,-79,PA,3.0,40,business
+HwwEfnZKLNOUoqfgcwAgcQ,100 W Bridge St Homestead Homestead  PA 15120,true,Books| Mags| Music & Video|Shopping|Bookstores,Homestead,17.0,Barnes & Noble Booksellers,Homestead,-79,PA,3.0,40,business
+EoAY1JSVeJriBzId8lUQwQ,244 W Bridge St Homestead West Homestead  PA 15120,true,Bars|American (New)|Nightlife|Restaurants,West Homestead,74.0,Bar Louie,Homestead,-79,PA,2.0,40,business
+uI0LvTXFACid1308KFO5ew,1000 Sandcastle Dr Hays Homestead  PA 15120,true,Active Life|Swimming Pools,Homestead,16.0,Sandcastle Water Park,Hays,-79,PA,3.0,40,business
+Y4CcDDyMoDpK7BbpKawWjw,401 E 8th Ave Homestead Homestead  PA 15120,true,Mattresses|Shopping|Home & Garden,Homestead,3.0,American Buyers Discount Mattress Store,Homestead,-79,PA,5.0,40,business
+RxKrw38oyeYszQ6guY5b1A,207 E 16th Ave Apt 1 Homestead Homestead  PA 15120,true,Hotels & Travel|Airport Shuttles|Limos|Transportation,Homestead,11.0,First Class Limousine Service,Homestead,-79,PA,5.0,40,business
+TfvWSIAMFZ9zI3y2-K6wOA,3360 Main St Munhall  PA 15120,true,Chinese|Restaurants,Munhall,5.0,The Dragon Chinese Cuisine,,-79,PA,3.0,40,business
+tU-YtoW339PXJmUGSix_AQ,185 Waterfront Dr W Homestead Homestead  PA 15120,true,Bars|American (Traditional)|Nightlife|Restaurants,Homestead,19.0,TGI Friday's,Homestead,-79,PA,2.0,40,business
+6p9TlP2I8S4agxYMNFSDjg,205 East Waterfront Drive Homestead Homestead  PA 15120,true,American (Traditional)|Pizza|Gluten-Free|Restaurants,Homestead,41.0,Uno Pizzeria & Grill,Homestead,-79,PA,3.0,40,business
+Eu3Iwje0YY8ectr-CxMgqg,The Waterfront Homestead Homestead  PA 15120,true,Shopping|Cosmetics & Beauty Supply|Beauty & Spas,Homestead,4.0,Bath & Body Works,Homestead,-79,PA,4.0,40,business
+XhbC5Qj5nBcqcKLPRd8izQ,229 W Bridge St Homestead Homestead  PA 15120,true,Lingerie|Shopping|Fashion,Homestead,3.0,Victoria's Secret,Homestead,-79,PA,2.0,40,business
+FituZ4jYzRe41ac9uvcHaQ,126 West Bridge Street Homestead Homestead  PA 15120,true,Women's Clothing|Fashion|Shopping|Shoe Stores,Homestead,3.0,LOFT,Homestead,-79,PA,4.0,40,business
+JDDeaNfb0JXD1NbznSIC9g,148 W Bridge St Homestead West Homestead  PA 15120,true,Gluten-Free|Asian Fusion|Chinese|Restaurants,West Homestead,82.0,P.F. Chang's China Bistro,Homestead,-79,PA,3.0,40,business
+oPX8bpZ3dqviYQuic0Ahqw,112 W Bridge St Homestead Homestead  PA 15120,true,Fashion|Shopping|Shoe Stores,Homestead,6.0,Gordon Shoes,Homestead,-79,PA,4.0,40,business
+FiXamVMgMf9U0VqFHDZSEA,210 W Bridge St Homestead West Homestead  PA 15120,true,Soup|Sandwiches|Salad|Restaurants,West Homestead,22.0,Panera Bread,Homestead,-79,PA,3.0,40,business
+LG_Dgv7u7P2ASDWU1RAyWQ,2114 West St Homestead Homestead  PA 15120,true,Veterinarians|Pets,Homestead,3.0,Munhall Veterinary Hospital,Homestead,-79,PA,3.0,40,business
+ISKLP0qxApATxRlUDob6Cg,360 Waterfront Dr E Homestead Homestead  PA 15120,true,Department Stores|Fashion|Shopping,Homestead,21.0,Target,Homestead,-79,PA,3.0,40,business
+DMy5IG-dNrH4ARk96KngEA,324 Amity St Homestead Homestead  PA 15120,true,Men's Clothing|Fashion|Shopping|Formal Wear,Homestead,9.0,Men's Wearhouse,Homestead,-79,PA,2.0,40,business
+uLnDFdn011hEroQQMLmxNQ,3502 Main St Munhall  PA 15120,true,Pizza|Restaurants,Munhall,8.0,The Pizza Company,,-79,PA,3.0,40,business
+rdATJvFQK4C73NIQ3zoY3w,520 East Waterfront Drive Homestead Homestead  PA 15120,true,Fashion|Shopping|Shoe Stores,Homestead,5.0,DSW Designer Shoe Warehouse,Homestead,-79,PA,4.0,40,business
+g10zmpUzmMJOOIjj_JJPvg,490 Waterfront Dr E Homestead Homestead  PA 15120,true,Department Stores|Fashion|Shopping,Homestead,7.0,Bed Bath & Beyond,Homestead,-79,PA,3.0,40,business
+eznh0XjVtv924K-KYx_ilQ,245 Waterfront Dr E Homestead Homestead  PA 15120,true,American (Traditional)|Diners|Restaurants,Homestead,43.0,Eat'n Park,Homestead,-79,PA,3.0,40,business
+LQFWH1AKJlXGmEBlIKsBCw,580 Waterfront Dr E Homestead Homestead  PA 15120,true,Department Stores|Fashion|Shopping,Homestead,6.0,TJ Maxx,Homestead,-79,PA,4.0,40,business
+LO2CjrNL8DXkvm9uALgRjQ,460 Waterfront Dr E Homestead Homestead  PA 15120,true,Discount Store|Shopping,Homestead,9.0,Marshalls,Homestead,-79,PA,3.0,40,business
+usSROUMiAgPcxV3Ym0OxMQ,185 W Waterfront Dr Homestead Pittsburgh/Waterfront  PA 15120,true,Seafood|Restaurants,Pittsburgh/Waterfront,99.0,Mitchell's Fish Market,Homestead,-79,PA,3.0,40,business
+qfL7ZFkxqDZOPIaVVfT3Aw,560 E Waterfront Dr Homestead Homestead  PA 15120,true,Women's Clothing|Men's Clothing|Fashion|Shopping|Children's Clothing,Homestead,6.0,Old Navy,Homestead,-79,PA,3.0,40,business
+GlYPVYSOVT7zn00Kk_Oz4g,The Waterfront 350 E Waterfront Dr Homestead Homestead  PA 15120,true,Sporting Goods|Fashion|Shopping|Sports Wear,Homestead,7.0,Dick's Sporting Goods,Homestead,-79,PA,3.0,40,business
+WaHXyBwljbKNPmmJZn5j8Q,1886 Homeville Rd West Mifflin  PA 15122,true,Food|Grocery,West Mifflin,3.0,Shop 'n Save,,-79,PA,3.0,40,business
+bCw9HKDFLU_PppnNg-nIlw,1356 Hoffman Blvd West Mifflin  PA 15122,true,Food|Grocery,West Mifflin,3.0,Giant Eagle,,-79,PA,2.0,40,business
+CL3tZqbYT7B5zgewKCS6-Q,Kennywood & Hoffman West Mifflin  PA 15122,true,Burgers|Fast Food|Restaurants,West Mifflin,3.0,McDonald's,,-79,PA,1.0,40,business
+u22QDAON1kk0wjoTliyftw,4426 Kennywood Blvd West Mifflin  PA 15122,true,Pizza|Restaurants,West Mifflin,3.0,Latina Pizza,,-79,PA,4.0,40,business
+4ykgzzzGEWjMD5lwk1-l9A,347 Lebanon Rd West Mifflin  PA 15122,true,Sporting Goods|Bikes|Shopping,West Mifflin,16.0,Big Bang Bicycles,,-79,PA,4.0,40,business
+53Yk2EODWnV9qHQECzeHVQ,1842 Homeville Rd West Mifflin  PA 15122,true,Pizza|Restaurants,West Mifflin,4.0,Bellisario Pizza Shop,,-79,PA,3.0,40,business
+iBZRphMDFcS2aMbawc1OvA,1822 Homeville Rd West Mifflin  PA 15122,true,Chinese|Restaurants,West Mifflin,4.0,Hunan Wok Chinese Restaurant,,-79,PA,5.0,40,business
+hnHt6EinzC-IX6y3GSF7jw,927 5th Ave McKeesport  PA 15132,true,Bakeries|Food|Desserts,McKeesport,11.0,Minerva Bakery,,-79,PA,5.0,40,business
+LiMXTPwanF3LkkKHklFCjw,342 Island Ave Mc Kees Rocks  PA 15136,true,Event Planning & Services|Caterers,Mc Kees Rocks,33.0,Pierogies Plus,,-80,PA,4.0,40,business
+GJAv1nAfnHuab8oRyr8mXg,301 Chartiers Ave McKees Rocks  PA 15136,true,American (Traditional)|Restaurants,McKees Rocks,4.0,Eat'n Park Restaurant,,-80,PA,4.0,40,business
+r8BwdblCW-ZUES37BL0khw,719 Broadway Ave McKees Rocks  PA 15136,true,Burgers|Breakfast & Brunch|Diners|Restaurants,McKees Rocks,17.0,Broadway Brunch,,-80,PA,4.0,40,business
+mIiHJkpK8nZvW_45LlhrbA,824 Chartiers Ave Mc Kees Rocks  PA 15136,true,Pizza|Restaurants,Mc Kees Rocks,12.0,Pasquarelli's Pizza House,,-80,PA,4.0,40,business
+bN3jIkPqbqroQJteJsC2uw,715 Island Ave Mc Kees Rocks  PA 15136,true,Tattoo|Piercing|Beauty & Spas,Mc Kees Rocks,4.0,Island Avenue Tattoo,,-80,PA,3.0,40,business
+OZfpG8tDCcIEq8pzgZdyKw,6570 Rt 60 Steubenville Pike McKees Rocks  PA 15136,true,Bars|American (Traditional)|Burgers|Nightlife|Sports Bars|Restaurants,McKees Rocks,6.0,Applebee's,,-80,PA,3.0,40,business
+OSYHPhvDWMqBRDZblqGiZA,1800 McKees Rocks Rd McKees Rocks  PA 15136,true,Food|Grocery,McKees Rocks,3.0,Giant Eagle,,-80,PA,3.0,40,business
+8Nm_jcCYtMXYW0ODSHDiXA,4260 Steubenville Pike Pittsburgh  PA 15205,true,Japanese|Restaurants,Pittsburgh,7.0,Sapporo Japanese Steakhouse,,-80,PA,4.0,40,business
+9tAbTDdYTASHL7EU1e-OWw,500 Pine Hollow Rd Mc Kees Rocks  PA 15136,true,Food|Specialty Food|Meat Shops,Mc Kees Rocks,3.0,Ricci Italian Sausage,,-80,PA,4.0,40,business
+imM-x_nAxVtYGVFJJ4FS3Q,1122 E Carson St South Side Pittsburgh  PA 15203,true,Flowers & Gifts|Shopping|Florists,Pittsburgh,6.0,Cindy Esser's Floral Shop,South Side,-79,PA,3.0,40,business
+T49ZvBa6mD4xHSmjHe-ArA,421 Lincoln Ave Bellevue Bellvue  PA 15202,true,Pizza|Restaurants,Bellvue,14.0,R & B's Pizza Place,Bellevue,-80,PA,4.0,40,business
+TpLtXNrNK0FcmSLtNN7rpQ,4469 Ohio River Blvd Bellevue Pittsburgh  PA 15202,true,Oil Change Stations|Automotive,Pittsburgh,3.0,Valvoline Instant Oil Change,Bellevue,-80,PA,4.0,40,business
+eOv0Dbq2E8sd0CKMAqTImw,531 Lincoln Ave Bellevue Bellevue  PA 15202,true,Pizza|Restaurants,Bellevue,17.0,Luigi's Pizzeria,Bellevue,-80,PA,4.0,40,business

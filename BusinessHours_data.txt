@@ -1,0 +1,100 @@
+5UmKMjUEUNdYWqANhGckJw,Open: 11:00 & Close: 21:00,Open: 11:00 & Close: 21:00,Open: 11:00 & Close: 21:00,Open: 11:00 & Close: 21:00,Open: 11:00 & Close: 21:00,Closed,Closed
+UsFtqoBl7naz8AVUBZMjQQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+3eu6MEFlq2Dg7bQh8QbdOg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+cE27W9VPgO88Qxe4ol6y_g,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+HZdLhv6COCleJMo7nPl-RA,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 17:00,Open: 10:00 & Close: 17:00,Open: 10:00 & Close: 21:00,Open: 11:00 & Close: 18:00
+mVHrayjG3uZ_RLHkLj-AMg,Closed,Open: 10:00 & Close: 19:00,Open: 10:00 & Close: 19:00,Open: 10:00 & Close: 19:00,Open: 10:00 & Close: 20:00,Open: 10:00 & Close: 16:00,Closed
+VHYT1qgQw5JvXAlUDhTArA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+KayYbHCt-RkbGcPdGOThNg,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 12:00 & Close: 02:00,Closed
+b12U9TFESStdy7CsTtcOeg,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 16:00,Closed
+Sktj1eHQFuVa-M4bgnEh8g,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+3ZVKmuK2l7uXPE6lXY4Dbg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+QoDa50dc7g62xciFygXB9w,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+1_lU0-eSWJCRvNGk78Zh9Q,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+_qopVQ6_Mz6W7-Pmbi56GQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+wJr6kSA5dchdgOdwH6dZ2w,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00,Open: 08:00 & Close: 02:00
+yXuao0pFz1AxB21vJjDf5w,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00
+F04xyOUA2xnUoCiWpx9iJA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Cdcus0NADzyY3XiJM2O5Sg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+fNGIbpazjTRdXgwRY_NIXA,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Closed
+b9WZJp5L1RZr4F1nxclOoQ,Open: 06:00 & Close: 14:30,Open: 06:00 & Close: 14:30,Open: 06:00 & Close: 14:30,Open: 06:00 & Close: 14:30,Open: 06:00 & Close: 14:30,Open: 06:00 & Close: 12:30,Open: 07:00 & Close: 12:30
+zaXDakTd3RXyOa7sMrUE1g,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 12:00,Closed
+zgy27FSnvwdINfk5cXBIyQ,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00
+WETE_LykpcnrC1sFcQ5EGg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+6o3RK6rTcN3nw-j-r2nQmA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+woOVJ0Z2f6XNCDntHA3b_g,Open: 08:30 & Close: 19:00,Open: 08:30 & Close: 19:00,Open: 08:30 & Close: 19:00,Open: 08:30 & Close: 19:00,Open: 08:30 & Close: 19:00,Open: 08:30 & Close: 18:30,Closed
+YX_cdwb0A62hdQRBiZJgtQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+rv7CY8G_XibTx82YhuqQRw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+e_U_FnpdKVgNb4mUN2cU_Q,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+SQ0j7bgSTazkVQlF5AnqyQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+L0YSY79uzz_FIInvKmvyIw,Open: 09:00 & Close: 16:00,Open: 09:00 & Close: 16:00,Open: 12:00 & Close: 18:00,Open: 09:00 & Close: 18:00,Open: 09:00 & Close: 15:00,Closed,Closed
+wqu7ILomIOPSduRwoWp4AQ,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00
+1u2NauOy8xDj7aFQET680A,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+P1fJb2WQ1mXoiudj8UE44w,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 21:00
+8QlnAcjGE6dgfKTVoxrPvQ,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 22:00,Open: 10:30 & Close: 21:00
+t_gan0EXAw8csKIeFyazJw,Open: 10:00 & Close: 00:00,Open: 10:00 & Close: 00:00,Open: 10:00 & Close: 00:00,Open: 10:00 & Close: 00:00,Open: 10:00 & Close: 01:30,Open: 10:00 & Close: 01:30,Open: 11:00 & Close: 23:00
+3gmBc0qN_LtGbZAjTtHWZg,Open: 06:00 & Close: 21:30,Open: 06:00 & Close: 21:30,Open: 06:00 & Close: 21:30,Open: 06:00 & Close: 22:30,Open: 07:00 & Close: 22:30,Open: 07:00 & Close: 21:00,Open: 06:00 & Close: 21:30
+sZ4uYs99km644ZMR1TO76A,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+yHTLTr-QN-loO_7XoxS8qg,Open: 09:00 & Close: 21:00,Open: 09:00 & Close: 21:00,Open: 09:00 & Close: 21:00,Open: 09:00 & Close: 21:00,Open: 09:00 & Close: 21:00,Open: 09:00 & Close: 21:00,Open: 10:00 & Close: 19:00
+iQLLIdmJSt6LQHSjpZERLA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+6ilJq_05xRgek_8qUp36-g,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00,Open: 00:00 & Close: 00:00
+57HN9fGRar_GckBmgHgemA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+MKyk4F4HSzHF8v-4cYe3Ww,Closed,Closed,Closed,Open: 18:00 & Close: 02:00,Open: 18:00 & Close: 02:00,Open: 18:00 & Close: 02:00,Closed
+0hrB2iwQZ52VZcZWYywXrA,Open: 08:00 & Close: 16:30,Open: 08:00 & Close: 16:30,Open: 08:00 & Close: 16:30,Open: 08:00 & Close: 16:30,Open: 08:00 & Close: 16:30,Closed,Closed
+gClSqcwuLsgyZRCzhJc7Dg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+1qCuOcks5HRv67OHovAVpg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+sbW8qHJgzEIH42B0S-3New,Open: 11:30 & Close: 00:00,Open: 11:30 & Close: 00:00,Open: 11:30 & Close: 00:00,Open: 11:30 & Close: 00:00,Open: 11:30 & Close: 02:00,Open: 11:30 & Close: 02:00,Open: 11:30 & Close: 00:00
+CgGT6sr4OCF2BHYngOIqlw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+W7ysp8GLCBrs0GXIVwAcBQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+-taSf0shFSUKy9iCXnySsA,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 00:00,Open: 11:00 & Close: 00:00,Open: 11:00 & Close: 00:00
+McikHxxEqZ2X0joaRNKlaw,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 00:00
+frIRW4BGhdAWbSsG5ev2ng,Open: 07:30 & Close: 17:00,Open: 07:30 & Close: 17:00,Open: 07:30 & Close: 17:00,Open: 07:30 & Close: 17:00,Open: 07:30 & Close: 17:00,Closed,Closed
+tv8cS4aaA1VDaInYgggb6g,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+eT5Ck7Gg1dBJobca9VFovw,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00
+HwwEfnZKLNOUoqfgcwAgcQ,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 22:00,Open: 10:00 & Close: 22:00,Open: 11:00 & Close: 20:00
+EoAY1JSVeJriBzId8lUQwQ,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00,Open: 11:00 & Close: 02:00
+uI0LvTXFACid1308KFO5ew,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Y4CcDDyMoDpK7BbpKawWjw,Open: 08:00 & Close: 17:00,Open: 08:00 & Close: 17:00,Open: 08:00 & Close: 17:00,Open: 08:00 & Close: 17:00,Open: 08:00 & Close: 17:00,Open: 08:00 & Close: 17:00,Open: 12:00 & Close: 17:00
+RxKrw38oyeYszQ6guY5b1A,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+TfvWSIAMFZ9zI3y2-K6wOA,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:00,Open: 11:00 & Close: 22:30,Open: 11:00 & Close: 22:30,Open: 12:00 & Close: 22:00
+tU-YtoW339PXJmUGSix_AQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+6p9TlP2I8S4agxYMNFSDjg,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 23:00,Open: 11:00 & Close: 00:00,Open: 11:00 & Close: 00:00
+Eu3Iwje0YY8ectr-CxMgqg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+XhbC5Qj5nBcqcKLPRd8izQ,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 12:00 & Close: 18:00
+FituZ4jYzRe41ac9uvcHaQ,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 11:00 & Close: 18:00
+JDDeaNfb0JXD1NbznSIC9g,Open: 11:00 & Close: 22:30,Open: 11:00 & Close: 22:30,Open: 11:00 & Close: 22:30,Open: 11:00 & Close: 22:30,Open: 11:00 & Close: 23:30,Open: 11:00 & Close: 23:30,Open: 11:00 & Close: 22:30
+oPX8bpZ3dqviYQuic0Ahqw,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 12:00 & Close: 18:00
+FiXamVMgMf9U0VqFHDZSEA,Open: 06:30 & Close: 21:00,Open: 06:30 & Close: 21:00,Open: 06:30 & Close: 21:00,Open: 06:30 & Close: 21:00,Open: 06:30 & Close: 22:00,Open: 07:00 & Close: 22:00,Open: 08:00 & Close: 20:00
+LG_Dgv7u7P2ASDWU1RAyWQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+ISKLP0qxApATxRlUDob6Cg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+DMy5IG-dNrH4ARk96KngEA,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 09:30 & Close: 21:00,Open: 11:00 & Close: 18:00
+uLnDFdn011hEroQQMLmxNQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+rdATJvFQK4C73NIQ3zoY3w,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 10:00 & Close: 21:00,Open: 11:00 & Close: 18:00
+g10zmpUzmMJOOIjj_JJPvg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+eznh0XjVtv924K-KYx_ilQ,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 01:00,Open: 06:00 & Close: 01:00,Open: 06:00 & Close: 00:00
+LQFWH1AKJlXGmEBlIKsBCw,Open: 09:30 & Close: 21:30,Open: 09:30 & Close: 21:30,Open: 09:30 & Close: 21:30,Open: 09:30 & Close: 21:30,Open: 09:30 & Close: 21:30,Open: 09:30 & Close: 21:30,Open: 11:00 & Close: 20:00
+LO2CjrNL8DXkvm9uALgRjQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+usSROUMiAgPcxV3Ym0OxMQ,Open: 11:30 & Close: 23:00,Open: 11:30 & Close: 23:00,Open: 11:30 & Close: 23:00,Open: 11:30 & Close: 23:00,Open: 11:30 & Close: 00:00,Open: 11:30 & Close: 00:00,Open: 11:00 & Close: 22:00
+qfL7ZFkxqDZOPIaVVfT3Aw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+GlYPVYSOVT7zn00Kk_Oz4g,Open: 09:00 & Close: 21:30,Open: 09:00 & Close: 21:30,Open: 09:00 & Close: 21:30,Open: 09:00 & Close: 21:30,Open: 09:00 & Close: 21:30,Open: 09:00 & Close: 21:30,Open: 10:00 & Close: 19:00
+WaHXyBwljbKNPmmJZn5j8Q,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+bCw9HKDFLU_PppnNg-nIlw,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00,Open: 06:00 & Close: 00:00
+CL3tZqbYT7B5zgewKCS6-Q,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+u22QDAON1kk0wjoTliyftw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+4ykgzzzGEWjMD5lwk1-l9A,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+53Yk2EODWnV9qHQECzeHVQ,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+iBZRphMDFcS2aMbawc1OvA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+hnHt6EinzC-IX6y3GSF7jw,Closed,Open: 07:00 & Close: 16:30,Open: 07:00 & Close: 16:30,Open: 07:00 & Close: 16:30,Open: 07:00 & Close: 16:30,Open: 07:00 & Close: 15:30,Closed
+LiMXTPwanF3LkkKHklFCjw,Open: 11:00 & Close: 18:00,Open: 11:00 & Close: 19:00,Open: 11:00 & Close: 19:00,Open: 11:00 & Close: 19:00,Open: 11:00 & Close: 19:00,Closed,Closed
+GJAv1nAfnHuab8oRyr8mXg,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+r8BwdblCW-ZUES37BL0khw,Open: 06:00 & Close: 14:00,Open: 06:00 & Close: 14:00,Open: 06:00 & Close: 14:00,Open: 06:00 & Close: 14:00,Open: 06:00 & Close: 14:00,Open: 07:00 & Close: 14:00,Open: 07:00 & Close: 14:00
+mIiHJkpK8nZvW_45LlhrbA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+bN3jIkPqbqroQJteJsC2uw,Closed,Open: 12:00 & Close: 20:00,Open: 12:00 & Close: 20:00,Open: 12:00 & Close: 20:00,Open: 12:00 & Close: 20:00,Open: 12:00 & Close: 20:00,Closed
+OZfpG8tDCcIEq8pzgZdyKw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+OSYHPhvDWMqBRDZblqGiZA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+8Nm_jcCYtMXYW0ODSHDiXA,Open: 16:30 & Close: 22:00,Open: 16:30 & Close: 22:00,Open: 16:30 & Close: 22:00,Open: 16:30 & Close: 22:00,Open: 16:30 & Close: 22:30,Open: 16:30 & Close: 22:30,Open: 15:00 & Close: 21:00
+9tAbTDdYTASHL7EU1e-OWw,Open: 08:30 & Close: 18:00,Open: 08:30 & Close: 18:00,Open: 08:30 & Close: 18:00,Open: 08:30 & Close: 18:00,Open: 08:30 & Close: 18:00,Open: 08:30 & Close: 17:00,Closed
+imM-x_nAxVtYGVFJJ4FS3Q,Open: 09:00 & Close: 17:00,Open: 09:00 & Close: 17:00,Open: 09:00 & Close: 17:00,Open: 09:00 & Close: 17:00,Open: 09:00 & Close: 17:00,Open: 09:00 & Close: 14:00,Closed
+T49ZvBa6mD4xHSmjHe-ArA,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+TpLtXNrNK0FcmSLtNN7rpQ,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 07:30 & Close: 19:00,Open: 08:00 & Close: 17:00,Open: 10:00 & Close: 16:00
+eOv0Dbq2E8sd0CKMAqTImw,Closed,Closed,Closed,Closed,Closed,Closed,Closed
